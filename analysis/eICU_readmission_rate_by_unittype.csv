@@ -1,0 +1,9 @@
+unittype,num_of_cases_without_readm,num_of_cases_readmission,all_cases,perc
+CTICU,4750,291,5041,5.77
+SICU,8854,503,9357,5.38
+MICU,11710,657,12367,5.31
+CCU-CTICU,12322,610,12932,4.72
+Cardiac ICU,9392,440,9832,4.48
+Neuro ICU,11012,475,11487,4.14
+Med-Surg ICU,79613,2955,82568,3.58
+CSICU,5335,90,5425,1.66

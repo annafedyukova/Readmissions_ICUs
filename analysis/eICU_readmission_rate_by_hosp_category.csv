@@ -1,0 +1,6 @@
+numbedscategory,num_of_cases_without_readm,num_of_cases_readmission,all_cases,perc
+Unknown,17365,880,18245,4.82
+>= 500,51538,2427,53965,4.5
+250 - 499,33108,1431,34539,4.14
+100 - 249,31539,1052,32591,3.23
+<100,9438,231,9669,2.39

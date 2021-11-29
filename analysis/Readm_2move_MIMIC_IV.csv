@@ -1,0 +1,71 @@
+first_careunit,second_careunit,num_of_admissions_2
+Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU)_2,572
+Cardiac Vascular Intensive Care Unit (CVICU),Coronary Care Unit (CCU)_2,65
+Cardiac Vascular Intensive Care Unit (CVICU),Medical Intensive Care Unit (MICU)_2,43
+Cardiac Vascular Intensive Care Unit (CVICU),Medical/Surgical Intensive Care Unit (MICU/SICU)_2,4
+Cardiac Vascular Intensive Care Unit (CVICU),Surgical Intensive Care Unit (SICU)_2,26
+Cardiac Vascular Intensive Care Unit (CVICU),Trauma SICU (TSICU)_2,21
+Coronary Care Unit (CCU),Cardiac Vascular Intensive Care Unit (CVICU)_2,388
+Coronary Care Unit (CCU),Coronary Care Unit (CCU)_2,340
+Coronary Care Unit (CCU),Medical Intensive Care Unit (MICU)_2,91
+Coronary Care Unit (CCU),Medical/Surgical Intensive Care Unit (MICU/SICU)_2,15
+Coronary Care Unit (CCU),Neuro Surgical Intensive Care Unit (Neuro SICU)_2,4
+Coronary Care Unit (CCU),Surgical Intensive Care Unit (SICU)_2,40
+Coronary Care Unit (CCU),Trauma SICU (TSICU)_2,24
+Medical Intensive Care Unit (MICU),Cardiac Vascular Intensive Care Unit (CVICU)_2,84
+Medical Intensive Care Unit (MICU),Coronary Care Unit (CCU)_2,154
+Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU)_2,759
+Medical Intensive Care Unit (MICU),Medical/Surgical Intensive Care Unit (MICU/SICU)_2,88
+Medical Intensive Care Unit (MICU),Neuro Intermediate_2,4
+Medical Intensive Care Unit (MICU),Neuro Stepdown_2,2
+Medical Intensive Care Unit (MICU),Neuro Surgical Intensive Care Unit (Neuro SICU)_2,13
+Medical Intensive Care Unit (MICU),Surgical Intensive Care Unit (SICU)_2,198
+Medical Intensive Care Unit (MICU),Trauma SICU (TSICU)_2,124
+Medical/Surgical Intensive Care Unit (MICU/SICU),Cardiac Vascular Intensive Care Unit (CVICU)_2,19
+Medical/Surgical Intensive Care Unit (MICU/SICU),Coronary Care Unit (CCU)_2,30
+Medical/Surgical Intensive Care Unit (MICU/SICU),Medical Intensive Care Unit (MICU)_2,72
+Medical/Surgical Intensive Care Unit (MICU/SICU),Medical/Surgical Intensive Care Unit (MICU/SICU)_2,719
+Medical/Surgical Intensive Care Unit (MICU/SICU),Neuro Intermediate_2,3
+Medical/Surgical Intensive Care Unit (MICU/SICU),Neuro Stepdown_2,2
+Medical/Surgical Intensive Care Unit (MICU/SICU),Neuro Surgical Intensive Care Unit (Neuro SICU)_2,5
+Medical/Surgical Intensive Care Unit (MICU/SICU),Surgical Intensive Care Unit (SICU)_2,45
+Medical/Surgical Intensive Care Unit (MICU/SICU),Trauma SICU (TSICU)_2,37
+Neuro Intermediate,Cardiac Vascular Intensive Care Unit (CVICU)_2,1
+Neuro Intermediate,Coronary Care Unit (CCU)_2,2
+Neuro Intermediate,Medical Intensive Care Unit (MICU)_2,8
+Neuro Intermediate,Medical/Surgical Intensive Care Unit (MICU/SICU)_2,2
+Neuro Intermediate,Neuro Intermediate_2,44
+Neuro Intermediate,Neuro Surgical Intensive Care Unit (Neuro SICU)_2,21
+Neuro Intermediate,Surgical Intensive Care Unit (SICU)_2,5
+Neuro Intermediate,Trauma SICU (TSICU)_2,3
+Neuro Stepdown,Coronary Care Unit (CCU)_2,3
+Neuro Stepdown,Medical Intensive Care Unit (MICU)_2,3
+Neuro Stepdown,Neuro Stepdown_2,35
+Neuro Stepdown,Neuro Surgical Intensive Care Unit (Neuro SICU)_2,9
+Neuro Stepdown,Trauma SICU (TSICU)_2,1
+Neuro Surgical Intensive Care Unit (Neuro SICU),Cardiac Vascular Intensive Care Unit (CVICU)_2,3
+Neuro Surgical Intensive Care Unit (Neuro SICU),Coronary Care Unit (CCU)_2,4
+Neuro Surgical Intensive Care Unit (Neuro SICU),Medical Intensive Care Unit (MICU)_2,19
+Neuro Surgical Intensive Care Unit (Neuro SICU),Neuro Intermediate_2,32
+Neuro Surgical Intensive Care Unit (Neuro SICU),Neuro Stepdown_2,15
+Neuro Surgical Intensive Care Unit (Neuro SICU),Neuro Surgical Intensive Care Unit (Neuro SICU)_2,38
+Neuro Surgical Intensive Care Unit (Neuro SICU),Surgical Intensive Care Unit (SICU)_2,6
+Neuro Surgical Intensive Care Unit (Neuro SICU),Trauma SICU (TSICU)_2,9
+Surgical Intensive Care Unit (SICU),Cardiac Vascular Intensive Care Unit (CVICU)_2,32
+Surgical Intensive Care Unit (SICU),Coronary Care Unit (CCU)_2,43
+Surgical Intensive Care Unit (SICU),Medical Intensive Care Unit (MICU)_2,139
+Surgical Intensive Care Unit (SICU),Medical/Surgical Intensive Care Unit (MICU/SICU)_2,20
+Surgical Intensive Care Unit (SICU),Neuro Intermediate_2,4
+Surgical Intensive Care Unit (SICU),Neuro Stepdown_2,3
+Surgical Intensive Care Unit (SICU),Neuro Surgical Intensive Care Unit (Neuro SICU)_2,10
+Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU)_2,550
+Surgical Intensive Care Unit (SICU),Trauma SICU (TSICU)_2,119
+Trauma SICU (TSICU),Cardiac Vascular Intensive Care Unit (CVICU)_2,33
+Trauma SICU (TSICU),Coronary Care Unit (CCU)_2,37
+Trauma SICU (TSICU),Medical Intensive Care Unit (MICU)_2,92
+Trauma SICU (TSICU),Medical/Surgical Intensive Care Unit (MICU/SICU)_2,23
+Trauma SICU (TSICU),Neuro Intermediate_2,9
+Trauma SICU (TSICU),Neuro Stepdown_2,7
+Trauma SICU (TSICU),Neuro Surgical Intensive Care Unit (Neuro SICU)_2,16
+Trauma SICU (TSICU),Surgical Intensive Care Unit (SICU)_2,146
+Trauma SICU (TSICU),Trauma SICU (TSICU)_2,447

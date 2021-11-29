@@ -1,0 +1,10 @@
+numbedscategory,first_careunit,num_of_admissions_1
+>= 500 ,Cardiac Vascular Intensive Care Unit (CVICU),731
+>= 500 ,Coronary Care Unit (CCU),902
+>= 500 ,Medical Intensive Care Unit (MICU),1426
+>= 500 ,Medical/Surgical Intensive Care Unit (MICU/SICU),932
+>= 500 ,Neuro Intermediate,86
+>= 500 ,Neuro Stepdown,51
+>= 500 ,Neuro Surgical Intensive Care Unit (Neuro SICU),126
+>= 500 ,Surgical Intensive Care Unit (SICU),920
+>= 500 ,Trauma SICU (TSICU),810

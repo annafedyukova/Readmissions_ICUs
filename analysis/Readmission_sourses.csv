@@ -1,0 +1,38 @@
+flow_ord,source_name
+1,Hosp.category (100 - 249 )
+1,Hosp.category (250 - 499 )
+1,Hosp.category (<100 )
+1,Hosp.category (>= 500 )
+1,Hosp.category (Unknown )
+2,CSICU
+2,Med-Surg ICU
+2,CCU-CTICU
+2,Cardiac ICU
+2,Neuro ICU
+2,MICU
+2,SICU
+2,CTICU
+3,CSICU_2
+3,Med-Surg ICU_2
+3,Neuro ICU_2
+3,Cardiac ICU_2
+3,CCU-CTICU_2
+3,MICU_2
+3,SICU_2
+3,CTICU_2
+4,Step-Down Unit (SDU)
+4,Acute Care/Floor
+4,Other Hospital
+4,Rehabilitation
+4,Other
+4,Home
+4,Floor
+4,Death
+4,Unknown
+4,Telemetry
+4,ICU
+4,Nursing Home
+4,Other External
+4,Other ICU
+4,Skilled Nursing Facility
+4,Other Internal

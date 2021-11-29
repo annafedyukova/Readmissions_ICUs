@@ -1,0 +1,33 @@
+flow_ord,source_name
+1,>= 500 
+2,Cardiac Vascular Intensive Care Unit (CVICU)
+2,Coronary Care Unit (CCU)
+2,Medical Intensive Care Unit (MICU)
+2,Medical/Surgical Intensive Care Unit (MICU/SICU)
+2,Neuro Intermediate
+2,Neuro Stepdown
+2,Neuro Surgical Intensive Care Unit (Neuro SICU)
+2,Surgical Intensive Care Unit (SICU)
+2,Trauma SICU (TSICU)
+3,Cardiac Vascular Intensive Care Unit (CVICU)_2
+3,Coronary Care Unit (CCU)_2
+3,Medical Intensive Care Unit (MICU)_2
+3,Medical/Surgical Intensive Care Unit (MICU/SICU)_2
+3,Neuro Intermediate_2
+3,Neuro Stepdown_2
+3,Neuro Surgical Intensive Care Unit (Neuro SICU)_2
+3,Surgical Intensive Care Unit (SICU)_2
+3,Trauma SICU (TSICU)_2
+4,ACUTE HOSPITAL
+4,AGAINST ADVICE
+4,ASSISTED LIVING
+4,CHRONIC/LONG TERM ACUTE CARE
+4,DIED
+4,HOME
+4,HOME HEALTH CARE
+4,HOSPICE
+4,OTHER FACILITY
+4,PSYCH FACILITY
+4,REHAB
+4,SKILLED NURSING FACILITY
+4,Unknown

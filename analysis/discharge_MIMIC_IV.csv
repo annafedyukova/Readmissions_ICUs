@@ -1,0 +1,97 @@
+second_careunit,discharge_location,num_of_admissions_3
+Cardiac Vascular Intensive Care Unit (CVICU)_2,ACUTE HOSPITAL,10
+Cardiac Vascular Intensive Care Unit (CVICU)_2,AGAINST ADVICE,2
+Cardiac Vascular Intensive Care Unit (CVICU)_2,CHRONIC/LONG TERM ACUTE CARE,149
+Cardiac Vascular Intensive Care Unit (CVICU)_2,DIED,104
+Cardiac Vascular Intensive Care Unit (CVICU)_2,HOME,57
+Cardiac Vascular Intensive Care Unit (CVICU)_2,HOME HEALTH CARE,375
+Cardiac Vascular Intensive Care Unit (CVICU)_2,HOSPICE,11
+Cardiac Vascular Intensive Care Unit (CVICU)_2,PSYCH FACILITY,1
+Cardiac Vascular Intensive Care Unit (CVICU)_2,REHAB,136
+Cardiac Vascular Intensive Care Unit (CVICU)_2,SKILLED NURSING FACILITY,287
+Coronary Care Unit (CCU)_2,ACUTE HOSPITAL,15
+Coronary Care Unit (CCU)_2,AGAINST ADVICE,1
+Coronary Care Unit (CCU)_2,ASSISTED LIVING,1
+Coronary Care Unit (CCU)_2,CHRONIC/LONG TERM ACUTE CARE,84
+Coronary Care Unit (CCU)_2,DIED,139
+Coronary Care Unit (CCU)_2,HOME,79
+Coronary Care Unit (CCU)_2,HOME HEALTH CARE,140
+Coronary Care Unit (CCU)_2,HOSPICE,28
+Coronary Care Unit (CCU)_2,OTHER FACILITY,1
+Coronary Care Unit (CCU)_2,PSYCH FACILITY,1
+Coronary Care Unit (CCU)_2,REHAB,54
+Coronary Care Unit (CCU)_2,SKILLED NURSING FACILITY,134
+Coronary Care Unit (CCU)_2,Unknown,1
+Medical Intensive Care Unit (MICU)_2,ACUTE HOSPITAL,11
+Medical Intensive Care Unit (MICU)_2,AGAINST ADVICE,8
+Medical Intensive Care Unit (MICU)_2,ASSISTED LIVING,2
+Medical Intensive Care Unit (MICU)_2,CHRONIC/LONG TERM ACUTE CARE,204
+Medical Intensive Care Unit (MICU)_2,DIED,309
+Medical Intensive Care Unit (MICU)_2,HOME,127
+Medical Intensive Care Unit (MICU)_2,HOME HEALTH CARE,173
+Medical Intensive Care Unit (MICU)_2,HOSPICE,61
+Medical Intensive Care Unit (MICU)_2,OTHER FACILITY,5
+Medical Intensive Care Unit (MICU)_2,PSYCH FACILITY,10
+Medical Intensive Care Unit (MICU)_2,REHAB,91
+Medical Intensive Care Unit (MICU)_2,SKILLED NURSING FACILITY,225
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,ACUTE HOSPITAL,4
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,AGAINST ADVICE,2
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,CHRONIC/LONG TERM ACUTE CARE,107
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,DIED,248
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,HOME,114
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,HOME HEALTH CARE,166
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,HOSPICE,54
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,OTHER FACILITY,1
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,PSYCH FACILITY,3
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,REHAB,32
+Medical/Surgical Intensive Care Unit (MICU/SICU)_2,SKILLED NURSING FACILITY,140
+Neuro Intermediate_2,ACUTE HOSPITAL,1
+Neuro Intermediate_2,AGAINST ADVICE,1
+Neuro Intermediate_2,CHRONIC/LONG TERM ACUTE CARE,5
+Neuro Intermediate_2,DIED,4
+Neuro Intermediate_2,HOME,25
+Neuro Intermediate_2,HOME HEALTH CARE,13
+Neuro Intermediate_2,HOSPICE,3
+Neuro Intermediate_2,REHAB,32
+Neuro Intermediate_2,SKILLED NURSING FACILITY,12
+Neuro Stepdown_2,CHRONIC/LONG TERM ACUTE CARE,2
+Neuro Stepdown_2,DIED,3
+Neuro Stepdown_2,HOME,6
+Neuro Stepdown_2,HOME HEALTH CARE,14
+Neuro Stepdown_2,HOSPICE,3
+Neuro Stepdown_2,REHAB,21
+Neuro Stepdown_2,SKILLED NURSING FACILITY,15
+Neuro Surgical Intensive Care Unit (Neuro SICU)_2,ACUTE HOSPITAL,3
+Neuro Surgical Intensive Care Unit (Neuro SICU)_2,AGAINST ADVICE,1
+Neuro Surgical Intensive Care Unit (Neuro SICU)_2,CHRONIC/LONG TERM ACUTE CARE,13
+Neuro Surgical Intensive Care Unit (Neuro SICU)_2,DIED,18
+Neuro Surgical Intensive Care Unit (Neuro SICU)_2,HOME,12
+Neuro Surgical Intensive Care Unit (Neuro SICU)_2,HOME HEALTH CARE,17
+Neuro Surgical Intensive Care Unit (Neuro SICU)_2,HOSPICE,4
+Neuro Surgical Intensive Care Unit (Neuro SICU)_2,REHAB,26
+Neuro Surgical Intensive Care Unit (Neuro SICU)_2,SKILLED NURSING FACILITY,22
+Surgical Intensive Care Unit (SICU)_2,ACUTE HOSPITAL,12
+Surgical Intensive Care Unit (SICU)_2,AGAINST ADVICE,3
+Surgical Intensive Care Unit (SICU)_2,ASSISTED LIVING,1
+Surgical Intensive Care Unit (SICU)_2,CHRONIC/LONG TERM ACUTE CARE,184
+Surgical Intensive Care Unit (SICU)_2,DIED,158
+Surgical Intensive Care Unit (SICU)_2,HOME,135
+Surgical Intensive Care Unit (SICU)_2,HOME HEALTH CARE,188
+Surgical Intensive Care Unit (SICU)_2,HOSPICE,39
+Surgical Intensive Care Unit (SICU)_2,OTHER FACILITY,2
+Surgical Intensive Care Unit (SICU)_2,PSYCH FACILITY,2
+Surgical Intensive Care Unit (SICU)_2,REHAB,151
+Surgical Intensive Care Unit (SICU)_2,SKILLED NURSING FACILITY,140
+Surgical Intensive Care Unit (SICU)_2,Unknown,1
+Trauma SICU (TSICU)_2,ACUTE HOSPITAL,13
+Trauma SICU (TSICU)_2,AGAINST ADVICE,5
+Trauma SICU (TSICU)_2,CHRONIC/LONG TERM ACUTE CARE,126
+Trauma SICU (TSICU)_2,DIED,106
+Trauma SICU (TSICU)_2,HOME,76
+Trauma SICU (TSICU)_2,HOME HEALTH CARE,121
+Trauma SICU (TSICU)_2,HOSPICE,15
+Trauma SICU (TSICU)_2,OTHER FACILITY,6
+Trauma SICU (TSICU)_2,PSYCH FACILITY,4
+Trauma SICU (TSICU)_2,REHAB,154
+Trauma SICU (TSICU)_2,SKILLED NURSING FACILITY,157
+Trauma SICU (TSICU)_2,Unknown,2

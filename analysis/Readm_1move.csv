@@ -1,0 +1,37 @@
+hospitalid,unittype_1,num_of_admissions_1
+Hosp.category (100 - 249 ),CCU-CTICU,38
+Hosp.category (100 - 249 ),CSICU,16
+Hosp.category (100 - 249 ),Cardiac ICU,67
+Hosp.category (100 - 249 ),MICU,50
+Hosp.category (100 - 249 ),Med-Surg ICU,841
+Hosp.category (100 - 249 ),Neuro ICU,23
+Hosp.category (100 - 249 ),SICU,17
+Hosp.category (250 - 499 ),CCU-CTICU,77
+Hosp.category (250 - 499 ),CSICU,12
+Hosp.category (250 - 499 ),CTICU,81
+Hosp.category (250 - 499 ),Cardiac ICU,127
+Hosp.category (250 - 499 ),MICU,78
+Hosp.category (250 - 499 ),Med-Surg ICU,936
+Hosp.category (250 - 499 ),Neuro ICU,19
+Hosp.category (250 - 499 ),SICU,101
+Hosp.category (<100 ),CCU-CTICU,6
+Hosp.category (<100 ),Cardiac ICU,6
+Hosp.category (<100 ),MICU,14
+Hosp.category (<100 ),Med-Surg ICU,192
+Hosp.category (<100 ),SICU,13
+Hosp.category (>= 500 ),CCU-CTICU,441
+Hosp.category (>= 500 ),CSICU,38
+Hosp.category (>= 500 ),CTICU,150
+Hosp.category (>= 500 ),Cardiac ICU,144
+Hosp.category (>= 500 ),MICU,391
+Hosp.category (>= 500 ),Med-Surg ICU,594
+Hosp.category (>= 500 ),Neuro ICU,334
+Hosp.category (>= 500 ),SICU,335
+Hosp.category (Unknown ),CCU-CTICU,48
+Hosp.category (Unknown ),CSICU,24
+Hosp.category (Unknown ),CTICU,60
+Hosp.category (Unknown ),Cardiac ICU,96
+Hosp.category (Unknown ),MICU,124
+Hosp.category (Unknown ),Med-Surg ICU,392
+Hosp.category (Unknown ),Neuro ICU,99
+Hosp.category (Unknown ),SICU,37

@@ -1,0 +1,9 @@
+unittype,num_of_cases_without_readm,num_of_cases_readmission,all_cases,perc
+CCU,6975,902,7877,11.45
+TSICU,7213,810,8023,10.1
+MICU,13592,1426,15018,9.5
+SICU,9430,920,10350,8.89
+Med-Surg ICU,11276,932,12208,7.63
+CVICU,10085,731,10816,6.76
+Unknown,748,51,799,6.38
+Neuro ICU,3202,212,3414,6.21
