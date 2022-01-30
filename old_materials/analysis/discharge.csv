@@ -1,0 +1,114 @@
+unittype_2,unitdischargelocation_2,num_of_discharge
+CCU-CTICU_2,Acute Care/Floor,44
+CCU-CTICU_2,Death,46
+CCU-CTICU_2,Floor,306
+CCU-CTICU_2,Home,20
+CCU-CTICU_2,ICU,2
+CCU-CTICU_2,Nursing Home,2
+CCU-CTICU_2,Other,4
+CCU-CTICU_2,Other External,2
+CCU-CTICU_2,Other Hospital,9
+CCU-CTICU_2,Other ICU,29
+CCU-CTICU_2,Rehabilitation,4
+CCU-CTICU_2,Skilled Nursing Facility,8
+CCU-CTICU_2,Step-Down Unit (SDU),92
+CCU-CTICU_2,Telemetry,55
+CSICU_2,Acute Care/Floor,8
+CSICU_2,Death,7
+CSICU_2,Floor,17
+CSICU_2,Home,3
+CSICU_2,ICU,3
+CSICU_2,Other External,2
+CSICU_2,Other ICU,2
+CSICU_2,Skilled Nursing Facility,1
+CSICU_2,Step-Down Unit (SDU),49
+CSICU_2,Telemetry,12
+CTICU_2,Acute Care/Floor,14
+CTICU_2,Death,15
+CTICU_2,Floor,261
+CTICU_2,Home,4
+CTICU_2,ICU,1
+CTICU_2,Other Hospital,2
+CTICU_2,Other ICU,15
+CTICU_2,Other Internal,4
+CTICU_2,Rehabilitation,2
+CTICU_2,Skilled Nursing Facility,4
+CTICU_2,Step-Down Unit (SDU),18
+CTICU_2,Telemetry,26
+Cardiac ICU_2,Acute Care/Floor,23
+Cardiac ICU_2,Death,55
+Cardiac ICU_2,Floor,188
+Cardiac ICU_2,Home,12
+Cardiac ICU_2,ICU,1
+Cardiac ICU_2,Nursing Home,3
+Cardiac ICU_2,Other,5
+Cardiac ICU_2,Other External,4
+Cardiac ICU_2,Other Hospital,14
+Cardiac ICU_2,Other ICU,22
+Cardiac ICU_2,Other Internal,1
+Cardiac ICU_2,Rehabilitation,3
+Cardiac ICU_2,Skilled Nursing Facility,6
+Cardiac ICU_2,Step-Down Unit (SDU),23
+Cardiac ICU_2,Telemetry,51
+Cardiac ICU_2,Unknown,1
+MICU_2,Acute Care/Floor,39
+MICU_2,Death,75
+MICU_2,Floor,294
+MICU_2,Home,13
+MICU_2,ICU,4
+MICU_2,Nursing Home,2
+MICU_2,Other,3
+MICU_2,Other External,10
+MICU_2,Other Hospital,17
+MICU_2,Other ICU,35
+MICU_2,Other Internal,2
+MICU_2,Rehabilitation,1
+MICU_2,Skilled Nursing Facility,13
+MICU_2,Step-Down Unit (SDU),86
+MICU_2,Telemetry,17
+MICU_2,Unknown,3
+Med-Surg ICU_2,Acute Care/Floor,180
+Med-Surg ICU_2,Death,300
+Med-Surg ICU_2,Floor,1537
+Med-Surg ICU_2,Home,88
+Med-Surg ICU_2,ICU,11
+Med-Surg ICU_2,Nursing Home,12
+Med-Surg ICU_2,Other,23
+Med-Surg ICU_2,Other External,41
+Med-Surg ICU_2,Other Hospital,110
+Med-Surg ICU_2,Other ICU,86
+Med-Surg ICU_2,Other Internal,5
+Med-Surg ICU_2,Rehabilitation,15
+Med-Surg ICU_2,Skilled Nursing Facility,27
+Med-Surg ICU_2,Step-Down Unit (SDU),291
+Med-Surg ICU_2,Telemetry,177
+Med-Surg ICU_2,Unknown,8
+Neuro ICU_2,Acute Care/Floor,18
+Neuro ICU_2,Death,24
+Neuro ICU_2,Floor,295
+Neuro ICU_2,Home,17
+Neuro ICU_2,ICU,3
+Neuro ICU_2,Other,1
+Neuro ICU_2,Other External,7
+Neuro ICU_2,Other Hospital,6
+Neuro ICU_2,Other ICU,37
+Neuro ICU_2,Rehabilitation,3
+Neuro ICU_2,Skilled Nursing Facility,5
+Neuro ICU_2,Step-Down Unit (SDU),44
+Neuro ICU_2,Telemetry,13
+SICU_2,Acute Care/Floor,47
+SICU_2,Death,30
+SICU_2,Floor,272
+SICU_2,Home,10
+SICU_2,ICU,3
+SICU_2,Nursing Home,1
+SICU_2,Other,3
+SICU_2,Other External,7
+SICU_2,Other Hospital,9
+SICU_2,Other ICU,34
+SICU_2,Other Internal,1
+SICU_2,Rehabilitation,5
+SICU_2,Skilled Nursing Facility,6
+SICU_2,Step-Down Unit (SDU),70
+SICU_2,Telemetry,19
+SICU_2,Unknown,1
